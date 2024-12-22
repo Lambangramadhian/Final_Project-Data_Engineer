@@ -1,0 +1,215 @@
+month,country,total_sales
+1,Singapore,1422.0
+1,Spain,7681.0
+1,Israel,312.0
+1,Sweden,1876.0
+1,Iceland,282.0
+1,Belgium,658.0
+1,Poland,454.0
+1,Portugal,2443.0
+1,Greece,2340.0
+1,Australia,6250.0
+1,Switzerland,2336.0
+1,Italy,1411.0
+1,Germany,10323.0
+1,Hong Kong,1844.0
+1,Netherlands,17406.0
+1,France,10890.0
+1,United Kingdom,417704.0
+1,Lebanon,1442.0
+2,Japan,4364.0
+2,Italy,170.0
+2,Belgium,1272.0
+2,Portugal,696.0
+2,Spain,1292.0
+2,Poland,472.0
+2,United Arab Emirates,622.0
+2,Sweden,366.0
+2,Switzerland,1763.0
+2,France,4602.0
+2,Norway,437.0
+2,Austria,196.0
+2,Saudi Arabia,94.0
+2,Israel,568.0
+2,Germany,6634.0
+2,Australia,10087.0
+2,United Kingdom,300059.0
+2,Netherlands,14709.0
+3,Germany,8641.0
+3,Spain,3412.0
+3,Netherlands,14838.0
+3,Sweden,1584.0
+3,United Kingdom,411571.0
+3,France,8570.0
+3,Switzerland,1030.0
+3,Poland,242.0
+3,Portugal,1519.0
+3,Norway,254.0
+3,Austria,992.0
+3,Japan,38.0
+3,Belgium,1890.0
+3,Italy,1190.0
+3,Australia,12970.0
+3,Greece,216.0
+4,USA,299.0
+4,Belgium,1154.0
+4,Italy,300.0
+4,Singapore,1478.0
+4,Portugal,1120.0
+4,Germany,7671.0
+4,Spain,1017.0
+4,France,2584.0
+4,Netherlands,1860.0
+4,Japan,3406.0
+4,Hong Kong,1146.0
+4,Israel,102.0
+4,United Kingdom,332121.0
+4,Australia,292.0
+4,Greece,400.0
+4,Unspecified,174.0
+4,Iceland,486.0
+4,Poland,492.0
+4,Sweden,515.0
+4,Brazil,934.0
+4,Switzerland,1182.0
+4,Austria,448.0
+5,Italy,452.0
+5,Bahrain,448.0
+5,Japan,832.0
+5,United Kingdom,451555.0
+5,Unspecified,684.0
+5,Switzerland,2150.0
+5,Belgium,1433.0
+5,Spain,1925.0
+5,Australia,9070.0
+5,Austria,739.0
+5,Poland,1076.0
+5,France,10908.0
+5,Germany,16111.0
+5,Hong Kong,1219.0
+5,Portugal,444.0
+5,Sweden,1420.0
+5,Netherlands,19064.0
+6,Germany,8335.0
+6,Unspecified,144.0
+6,Italy,156.0
+6,Iceland,274.0
+6,Australia,17822.0
+6,Spain,1956.0
+6,Switzerland,5654.0
+6,Sweden,440.0
+6,France,10035.0
+6,Belgium,2528.0
+6,Portugal,602.0
+6,Netherlands,16383.0
+6,Norway,4065.0
+6,Hong Kong,296.0
+6,Poland,211.0
+6,United Kingdom,455282.0
+6,Malta,535.0
+6,Japan,288.0
+7,Unspecified,922.0
+7,Sweden,3186.0
+7,Germany,9953.0
+7,France,5953.0
+7,Belgium,1402.0
+7,United Kingdom,413864.0
+7,Switzerland,2556.0
+7,Greece,204.0
+7,Spain,5033.0
+7,Austria,786.0
+7,Norway,508.0
+7,Australia,2409.0
+7,Israel,1048.0
+7,Netherlands,6.0
+7,Poland,433.0
+7,Portugal,1478.0
+7,Italy,128.0
+7,Japan,2738.0
+7,Singapore,2758.0
+8,Israel,3331.0
+8,Austria,1072.0
+8,Italy,1199.0
+8,Malta,874.0
+8,United Kingdom,416531.0
+8,Netherlands,25677.0
+8,Switzerland,3303.0
+8,Portugal,776.0
+8,Poland,262.0
+8,Australia,16298.0
+8,Spain,2094.0
+8,Hong Kong,2311.0
+8,Unspecified,410.0
+8,Sweden,370.0
+8,Germany,12452.0
+8,Norway,1149.0
+8,France,8340.0
+8,Belgium,2024.0
+8,Iceland,434.0
+9,Israel,273.0
+9,Australia,3351.0
+9,Sweden,2210.0
+9,Poland,336.0
+9,United Arab Emirates,688.0
+9,Netherlands,19196.0
+9,Unspecified,168.0
+9,Spain,3021.0
+9,Portugal,888.0
+9,Norway,5935.0
+9,Italy,250.0
+9,United Kingdom,644679.0
+9,Belgium,2759.0
+9,Germany,10872.0
+9,France,14656.0
+9,Switzerland,5226.0
+10,Italy,2460.0
+10,Netherlands,28412.0
+10,Norway,2534.0
+10,Austria,606.0
+10,Israel,77.0
+10,Japan,1092.0
+10,Portugal,3642.0
+10,Spain,5882.0
+10,France,16435.0
+10,Sweden,2596.0
+10,USA,1484.0
+10,Singapore,767.0
+10,United Kingdom,667483.0
+10,Belgium,3345.0
+10,RSA,839.0
+10,Australia,14020.0
+10,Switzerland,4933.0
+10,Hong Kong,535.0
+10,Germany,19866.0
+10,Iceland,868.0
+11,Germany,17526.0
+11,Unspecified,648.0
+11,Australia,4622.0
+11,Portugal,1817.0
+11,Sweden,1217.0
+11,United Kingdom,956751.0
+11,Spain,6006.0
+11,Norway,4200.0
+11,Belgium,4105.0
+11,Austria,807.0
+11,Poland,924.0
+11,France,19483.0
+11,Italy,2738.0
+11,Switzerland,6005.0
+11,Netherlands,16607.0
+11,Japan,5804.0
+11,Malta,223.0
+12,Norway,1774.0
+12,Iceland,108.0
+12,Greece,417.0
+12,Austria,420.0
+12,United Kingdom,461041.0
+12,Portugal,1478.0
+12,France,4554.0
+12,USA,576.0
+12,Italy,160.0
+12,Netherlands,7658.0
+12,Spain,156.0
+12,Germany,4929.0
+12,Belgium,768.0
+12,Sweden,200.0
